@@ -1,0 +1,27 @@
+1.	¿Qué es git? Es un sistema de control de versiones distribuido, osea que es un programa que administra las distintas versiones de un programa, es un open source que fue creado por el mismo desarrollador de Linux y fue hecho para tener una manera de controlar los cambios que hacía en el código del kernel de Linux, puede coordinar el trabajo entre múltiples desarrolladores o programadores y también ayuda a rastrear cambios en archivos y poder revertir datos o todo lo que hemos escrito en el programa gracias a que tiene un registro de todo. 
+
+2.	¿Cuáles son los comandos más importantes de git?
+•	git init
+•	git add <file> git status
+•	git commit
+•	git push
+•	git pull
+•	git clone
+
+3.	¿Cuál es la diferencia entre Git y Github? Git es un sistema de control de versiones distribuido, diseñado para rastrear cambios en archivos y coordinar el trabajo entre múltiples personas en un proyecto de desarrollo de software. Mientras que GitHub es una plataforma en línea que proporciona alojamiento de repositorios de Git en la nube. Es una plataforma colaborativa y social para el desarrollo de software que facilita la colaboración, la revisión del código, el seguimiento de problemas y muchas otras funcionalidades.
+
+4.	Enumere los comandos para subir cambios a un repositorio.
+•	git add
+•	git commit
+•	git config
+•	git log
+•	git checkout -- <name file>
+•	git diff
+•	.gitignore
+•	git commit -m <message>
+•	git branch <branch name>
+•	git remote
+•	git push
+•	git clone
+
+5.	¿Qué es una branch? Es la forma de hacer cambios en nuestro proyecto sin afectar el flujo de trabajo de la rama principal.
